@@ -7,5 +7,5 @@ http://jakevdp.github.com/blog/2012/09/05/quantum-python/
 
 Authors
 -------
-Jake Vanderplas
-Andre Xuereb
+- Jake Vanderplas
+- Andre Xuereb (contributed normalization & imaginary time step)
